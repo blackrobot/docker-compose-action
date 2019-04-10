@@ -1,0 +1,1 @@
+A docker image that runs docker-compose.
